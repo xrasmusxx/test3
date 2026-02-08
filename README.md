@@ -26,6 +26,7 @@ For MAC/Linux
 3. source <name>/bin/activate 
 4. pip install selenium
 5. pip install behave
-6. sudo apt install -y google-chrome-stable
+6. sudo snap install chromium
+7. pip install webdriver_manager selenium
 7. pip install chromedriver-autoinstaller 
 
